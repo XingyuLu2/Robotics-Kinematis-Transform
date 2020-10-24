@@ -1,2 +1,2 @@
 # Robotics-Science-Exercises
-There are several programs of Robotics Science and System on Matlab.
+There are several exercise programs of Robotics Science and System on Matlab.
